@@ -1,1 +1,1 @@
-# This repository for web scrapping data from e-commerse website
+# This repository for scrapping data from e-commerse website
